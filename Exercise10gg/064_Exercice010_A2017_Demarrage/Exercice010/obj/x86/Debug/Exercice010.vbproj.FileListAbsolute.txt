@@ -1,0 +1,74 @@
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\bin\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\bin\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\bin\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\bin\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\bin\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\bin\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\bin\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\bin\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\bin\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2014_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\bin\Debug\Exercice010.exe
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\bin\Debug\Exercice010.pdb
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\bin\Debug\Exercice010.xml
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+C:\Temp\VB\NotesDeCours\Chapitre04\Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.GenerateResource.Cache
+D:\Inf\ORD_15440_DevApplicII\Cours04\064_Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+D:\Inf\ORD_15440_DevApplicII\Cours04\064_Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+D:\Inf\ORD_15440_DevApplicII\Cours04\064_Exercice010_A2015_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.exe
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.pdb
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.xml
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbprojResolveAssemblyReference.cache
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.GenerateResource.Cache
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.CoreCompileInputs.cache
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+C:\Users\Sean's PC\Desktop\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbprojResolveAssemblyReference.cache
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.GenerateResource.Cache
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.CoreCompileInputs.cache
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.exe
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.pdb
+C:\Users\Sean's PC\Desktop\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.xml
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.exe
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.pdb
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\bin\Debug\Exercice010.xml
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbprojAssemblyReference.cache
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Form1.resources
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.Resources.resources
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.GenerateResource.cache
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.vbproj.CoreCompileInputs.cache
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.exe
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.xml
+E:\Session 3\DevApp\Exercise10gg\064_Exercice010_A2017_Demarrage\Exercice010\obj\x86\Debug\Exercice010.pdb
